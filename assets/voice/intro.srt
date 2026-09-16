@@ -1,0 +1,20 @@
+1
+00:00:00,050 --> 00:00:01,669
+SoloQ Tagebuch.
+
+2
+00:00:01,669 --> 00:00:02,793
+Tag eins.
+
+3
+00:00:02,793 --> 00:00:07,029
+Wir haben bei Master, 1026 LP, angefangen.
+
+4
+00:00:07,029 --> 00:00:10,347
+Heute haben wir 5 Games gespielt, davon 3 verloren.
+
+5
+00:00:10,347 --> 00:00:12,051
+Und das sind die Highlights.
+

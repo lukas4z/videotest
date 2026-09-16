@@ -2,3 +2,4 @@ downloads/
 clips/
 segments/
 output/
+__pycache__/
